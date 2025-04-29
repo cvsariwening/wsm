@@ -27,11 +27,19 @@ export default function RootLayout({
         </ThemeProvider>
         <style>
           body {
+            display: flex;
+            justify-content: center;
+            align-item: center;
+            height: 100vh;
+            font-family: Verdana, Geneva, Tahoma, Sans-Serif;
           }
           .wa_btn {
             position: fixed;
             right: 20px;
             bottom: 50px;
+          }
+        </style>
+       </head>
       </body>
         <h1>wa floating button</h1>
         <a class="wa_btn" href="https://wa.me/6281213478092?text=Salam%20sukses🤝%20saya%20ingin%20bertanya%20terkait%20produk%20CV.SARI%20WENING">Chat whatsapp</a>
