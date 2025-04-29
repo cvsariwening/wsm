@@ -75,7 +75,7 @@ export default function LegalDocumentsPage() {
                       <FileText className="mr-2 h-4 w-4" />
                       Lihat Dokumen
                     </Button>
-                  ) : document.title === "Company Profile" ? (
+                  ) : document.title === "Profil Perusahaan" ? (
                     <Button
                       variant="outline"
                       className="w-full border-blue-800 text-maroon-800 hover:bg-maroon-50"
