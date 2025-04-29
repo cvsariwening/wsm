@@ -27,7 +27,7 @@ export default function RootLayout({
         </ThemeProvider>
       </body>
         <h1>wa floating button</h1>
-        <a href="https://wa.me/6281213478092">Chat whatsapp</a>
+        <a href="https://wa.me/6281213478092?text=Salam%20sukses%20selamat%20bergabung%20di%20mitra%20CV.SARI%20WENING">Chat whatsapp</a>
     </html>
   )
 }
