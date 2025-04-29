@@ -11,7 +11,7 @@ export default function Footer() {
             <p className="mb-4 text-gray-200">
               Industri Pengolahan dan Pengawetan Produk Daging dan Daging Unggas Berkualitas
             </p>
-            {/* <div className="flex space-x-4">
+           <div className="flex space-x-4">
               <Link href="#" className="text-gray-300 hover:text-white">
                 <Facebook className="h-5 w-5" />
                 <span className="sr-only">Facebook</span>
@@ -24,7 +24,7 @@ export default function Footer() {
                 <Instagram className="h-5 w-5" />
                 <span className="sr-only">Instagram</span>
               </Link>
-            </div> */}
+            </div>
           </div>
           <div>
             <h3 className="mb-4 text-lg font-bold text-white">Tautan Cepat</h3>
