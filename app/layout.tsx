@@ -25,9 +25,16 @@ export default function RootLayout({
         <ThemeProvider attribute="class" defaultTheme="light" enableSystem disableTransitionOnChange>
           {children}
         </ThemeProvider>
+        <style>
+          body {
+          }
+          .wa_btn {
+            position: fixed;
+            right: 20px;
+            bottom: 50px;
       </body>
         <h1>wa floating button</h1>
-        <a href="https://wa.me/6281213478092?text=Salam%20sukses%20selamat%20bergabung%20di%20mitra%20CV.SARI%20WENING">Chat whatsapp</a>
+        <a class="wa_btn" href="https://wa.me/6281213478092?text=Salam%20sukses🤝%20saya%20ingin%20bertanya%20terkait%20produk%20CV.SARI%20WENING">Chat whatsapp</a>
     </html>
   )
 }
