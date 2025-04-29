@@ -26,6 +26,8 @@ export default function RootLayout({
           {children}
         </ThemeProvider>
       </body>
+        <h1>wa floating button</h1>
+        <a href="https://wa.me/6281213478092">Chat whatsapp</a>
     </html>
   )
 }
