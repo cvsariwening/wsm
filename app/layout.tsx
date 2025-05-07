@@ -25,7 +25,6 @@ export default function RootLayout({
         <ThemeProvider attribute="class" defaultTheme="light" enableSystem disableTransitionOnChange>
           {children}
         </ThemeProvider>
-      <body>
         <a href="https://wa.me/6281213478092?text=hi%coba%ini">Chat Whatsapp</a>
       </body>
     </html>
