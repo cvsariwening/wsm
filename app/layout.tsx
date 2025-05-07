@@ -26,8 +26,6 @@ export default function RootLayout({
           {children}
         </ThemeProvider>
       </body>
-        <a href="https://wa.me/6281213478092?text=Salam%20sukses🤝%20saya%20ingin%20bertanya%20terkait%20produk%20CV.SARI%20WENING">Chat whatsapp</a>
-    </html>
   )
 }
 
