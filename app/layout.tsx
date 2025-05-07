@@ -27,7 +27,7 @@ export default function RootLayout({
         </ThemeProvider>
          .wa_btn {
            position: fixed;
-        }
+         }
          .wa_btn i {
            font-size: 60px;
            padding: 0 10px;
