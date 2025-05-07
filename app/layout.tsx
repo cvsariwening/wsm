@@ -32,7 +32,7 @@ export default function RootLayout({
            font-size: 60px;
            padding: 0 10px;
          }  
-      <body>
+      </body>
         <a class="wa_btn" href="https://wa.me/6281213478092?text=hi%coba%ini"><i
         class="fa-brands fa-whatsapp fa-2xl"></i>Chat Whatsapp</a>
       </body>
