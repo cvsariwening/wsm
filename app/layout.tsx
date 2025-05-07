@@ -26,7 +26,7 @@ export default function RootLayout({
           {children}
         </ThemeProvider>
       <body>
-        <a href="https://wa.me/6281213478092?text=hi%coba%ini"></a>Chat Whatsapp</a>
+        <a href="https://wa.me/6281213478092?text=hi%coba%ini">Chat Whatsapp</a>
       </body>
     </html>
   )
